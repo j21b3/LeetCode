@@ -26,3 +26,4 @@ int main(){
     uint32_t n=00000000000000000000000000001011;
     cout<<Solution::hammingWeight(n);
 }
+
