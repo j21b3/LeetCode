@@ -8,7 +8,7 @@ class Solution:
         for i in range(2, n + 1):
             Fibo.append(Fibo[0] + Fibo[1])
             del Fibo[0]
-        return int(Fibo[1] % (1e9+7))
+        return int(Fibo[1] % 1000000007)
 
 
 s = Solution()
