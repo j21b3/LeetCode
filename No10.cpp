@@ -1,9 +1,4 @@
-//
-// Created by 84200 on 2021/6/21.
-//
-//
-// Created by 84200 on 2021/6/21.
-//
+// 该程序超时
 #include <iostream>
 #include "string"
 #include "vector"
