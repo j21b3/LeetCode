@@ -42,7 +42,7 @@ func isNumber(s string) bool {
 	return false
 }
 
-func main() {
-	s := "1 "
-	isNumber(s)
-}
+// func main() {
+// 	s := "1 "
+// 	isNumber(s)
+// }
